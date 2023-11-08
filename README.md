@@ -11,9 +11,9 @@
 - Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
   
 <br>
+<br>
 
-**Example image:**
+**Example images:**
 
 ![Dracula Text Analysis Example Screen 2](/assets/nlp_dracula1.png)
-![Dracula Text Analysis Example Screen 2](/assets/nlp_dracula2.png)
 ![Dracula Text Analysis Example Screen 3](/assets/nlp_dracula3.png)
