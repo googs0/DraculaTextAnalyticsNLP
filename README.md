@@ -1,4 +1,4 @@
-## Word_Analysis_Dracula
+## NLP Text Analysis Dracula
 
 ### Natural Language Processing and Text Analysis of 'Dracula' by Bram Stoker
 
