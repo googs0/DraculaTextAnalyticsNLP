@@ -2,10 +2,11 @@
 
 ### Natural Language Processing and Text Analysis of 'Dracula' by Bram Stoker
 
-- Usage: The code reads the content of "Dracula" by Bram Stoker from a file (assumed to be "dracula.txt")
-To use this code, you need to have the required libraries installed and ensure that the "dracula.txt" file is in the same directory as the script.
-Display various text analytics tasks, such as sentiment analysis, keyword extraction, topic modeling, summarization, part-of-speech tagging, named entity recognition, and word analysis, for the given text.
-Please note that the code is specific to analyzing the text of "Dracula" and may need adjustments if you want to apply it to a different text source.an 500 times -> Display analytic results
+- Usage:
+  - The code reads the content of "Dracula" by Bram Stoker from a file (assumed to be "dracula.txt")
+  -  To use this code, you need to have the required libraries installed and ensure that the "dracula.txt" file is in the same directory as the script.
+  -  Display various text analytics tasks: word analysis, sentiment analysis, keyword extraction, topic modeling, summarization, part-of-speech tagging, named entity recognition
+  -  Please note that the code is specific to analyzing the text of "Dracula" and may need adjustments if you want to apply it to a different text source.an 500 times 
 - Libraries used: spacy, nltk, rake_nltk, gensim
 - Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
   
