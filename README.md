@@ -16,4 +16,7 @@
 **Example images:**
 
 ![Dracula Text Analysis Example Screen 2](/assets/nlp_dracula1.png)
+
+<br>
+
 ![Dracula Text Analysis Example Screen 3](/assets/nlp_dracula3.png)
