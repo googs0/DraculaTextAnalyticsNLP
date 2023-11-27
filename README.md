@@ -15,7 +15,7 @@
 ### Usage
 -**Clone the Repository:**
    ```bash
-git clone (https://github.com/googs0/DraculaTextAnalyticsNLP).git
+git clone https://github.com/googs0/DraculaTextAnalyticsNLP.git
    ```
 
 
