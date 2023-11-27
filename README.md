@@ -14,7 +14,6 @@
 
 ### Usage
 -**Clone the Repository:**
-   Copy and paste the following command in your terminal to clone the repository:
    ```bash
 git clone https://github.com/yourusername/your-repository.gi](https://github.com/googs0/DraculaTextAnalyticsNLP).git
 - 
