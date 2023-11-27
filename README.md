@@ -18,6 +18,8 @@
    ```bash
    git clone https://github.com/yourusername/your-repository.git
 
+<br>
+
 2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
