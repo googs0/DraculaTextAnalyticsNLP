@@ -4,10 +4,10 @@ from tokenize_text import tokenized_text_cache, tokenized_text_cache_lock
 
 def topic_modeling(cleaned_text, num_topics=5, passes=12, workers=4):
     logging.info("Initiating Topic Modeling\n")
-    start_time = time.time()  # Record the start time
+    start_time = time.time()
 
     with tokenized_text_cache_lock:
-        # Use the cleaned text for querying the cache
+        # Cleaned text for querying the cache
         cleaned_text_hash = hashlib.md5(cleaned_text.encode()).hexdigest()
 
         # Retrieve tokens from the cache using the cleaned text hash
@@ -28,7 +28,7 @@ def topic_modeling(cleaned_text, num_topics=5, passes=12, workers=4):
         # Train the LDA model with a specified number of passes and workers
         lda_model = LdaMulticore(corpus, num_topics=num_topics, id2word=dictionary, passes=passes, workers=workers)
 
-        # Print the topics
+        # Log topic
         topics = lda_model.print_topics()
         logging.info("LDA Topics:")
         for i, topic in enumerate(topics):
@@ -50,7 +50,6 @@ def topic_modeling(cleaned_text, num_topics=5, passes=12, workers=4):
         logging.error(f"An error occurred during topic modeling: {e}")
 
     finally:
-        # Record the finish time
         end_time = time.time()
         duration = end_time - start_time
         logging.info(f"Topic Modeling finished. Duration: {duration:.2f} seconds.\n")
