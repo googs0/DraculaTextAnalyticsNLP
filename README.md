@@ -47,13 +47,17 @@ Please note that the code is specific to analyzing the text of "Dracula" and may
 <br>
 <br>
 
-**Example images**
+## **Example images**
 
-![Dracula Text Analysis Example Screen 1](/assets/nlp_dracula1.png)
+#### __main__
+![Dracula NLP Main Screen](/assets/img/main_dracula.png)
 
 <br>
 
-![Dracula Text Analysis Example Screen 2](/assets/nlp_dracula3.png)
+#### Entity Analysis
+![Dracula NLP Entity Analysis Screen 1](/assets/img/entities-by-type_dracula_1.png)
+![Dracula NLP Entity Analysis Screen 2](/assets/img/entities-by-type_dracula_2.png)
+![Dracula NLP Entity Analysis Screen 3](/assets/img/entities-by-type_dracula_3.png)
 
 <br>
 
