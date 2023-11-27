@@ -24,6 +24,12 @@
    ```bash
    pip install -r requirements.txt
 
+<br>
+
+2. **Run**
+   ```bash
+   python __main__.py
+
 - Please note that the code is specific to analyzing the text of "Dracula" and may need adjustments if you want to apply it to a different text source
 
 <br>
