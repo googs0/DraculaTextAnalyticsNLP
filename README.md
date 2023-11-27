@@ -105,7 +105,7 @@ Please note that the code is specific to analyzing the text of "Dracula" and may
 <br>
 
 #### Analyze Text and NLP
-![Dracula NLP Analyze Text and NLP Screen](/assets/img/process-analyze_text_and_nlp_dracula.png)
+![Dracula NLP Analyze Text and NLP Screen](/assets/img/analyze-text-and-nlp_dracula.png)
 
 <br>
 
