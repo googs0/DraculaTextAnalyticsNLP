@@ -49,7 +49,7 @@ Please note that the code is specific to analyzing the text of "Dracula" and may
 
 ## **Example images**
 
-#### \__main\__
+#### *\__main\__*
 ![Dracula NLP Main Screen](/assets/img/main_dracula.png)
 
 <br>
