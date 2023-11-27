@@ -73,7 +73,7 @@ def analyze_sentiment(tokens_str, doc):
     overall_subjectivity = get_subjectivity(tokens_str, doc)
     logging.info(f"Overall Subjectivity: {overall_subjectivity}\n")
 
-    # Log or print overall sentiment analysis results
+    # Overall sentiment analysis results
     logging.info(
         f"Sentiment Analysis:\n"
         f"SpaCy Polarity: {overall_spacy_polarity}\n"
