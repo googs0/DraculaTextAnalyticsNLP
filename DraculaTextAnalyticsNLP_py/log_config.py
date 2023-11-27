@@ -5,7 +5,6 @@ import sys
 
 init()
 
-
 class ColoredFormatter(logging.Formatter):
     COLORS = {
         'DEBUG': Fore.BLUE,
