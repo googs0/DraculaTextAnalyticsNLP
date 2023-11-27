@@ -18,6 +18,10 @@
    ```bash
    git clone https://github.com/yourusername/your-repository.git
 
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
 - Please note that the code is specific to analyzing the text of "Dracula" and may need adjustments if you want to apply it to a different text source
 
 <br>
