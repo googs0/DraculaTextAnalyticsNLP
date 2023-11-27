@@ -12,7 +12,7 @@
 - Part-of-speech tagging
 - Named entity recognition
 
-## Usage
+### Usage
 
 1. **Clone the Repository:**
    ```bash
