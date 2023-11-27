@@ -49,12 +49,12 @@ Please note that the code is specific to analyzing the text of "Dracula" and may
 
 ## **Example images**
 
-#### Main
+#### \__Main__\
 ![Dracula NLP Main Screen](/assets/img/main_dracula.png)
 
 <br>
 
-### File Download and Read
+#### File Download and Read
 ![Dracula NLP File Download and Read Screen 1](/assets/img/file-download-and-read_dracula_1.png)
 ![Dracula NLP File Download and Read Screen 2](/assets/img/file-download-and-read_dracula_2.png)
 
