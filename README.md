@@ -12,10 +12,12 @@
 - Part-of-speech tagging
 - Named entity recognition
 
-### Usage
-- **Clone the Repository:**
+## Usage
+
+1. **Clone the Repository:**
    ```bash
-git clone https://github.com/googs0/DraculaTextAnalyticsNLP.git
+   git clone https://github.com/yourusername/your-repository.git
+
 
 
 
