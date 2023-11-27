@@ -19,7 +19,6 @@ git clone https://github.com/googs0/DraculaTextAnalyticsNLP.git
 
 - **Install dependencies:**
    ```bash
-git clone https://github.com/googs0/DraculaTextAnalyticsNLP.git  
 
 
 - Please note that the code is specific to analyzing the text of "Dracula" and may need adjustments if you want to apply it to a different text source
