@@ -16,7 +16,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/googs0/DraculaTextAnalyticsNLP.git
 
 <br>
 
